@@ -1,1 +1,1 @@
-# -ving-Oppgave-Js
+# -øving-Oppgave-Js
